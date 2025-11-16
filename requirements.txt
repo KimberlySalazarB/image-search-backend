@@ -1,0 +1,5 @@
+flask
+psycopg2-binary
+torch
+pillow
+transformers
